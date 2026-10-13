@@ -1,6 +1,6 @@
 # ひとことヒント 〜かぶったら きえちゃうクマ〜
 
-▶ **あそぶ：https://ryowatanabe1161-svg.github.io/hitokoto-hint/**
+▶ **あそぶ：https://fuusan-games.github.io/hitokoto-hint/**
 
 
 みんなで1人の回答者にヒントを出す、オンライン協力ことばゲーム（『Just One』に着想を得たオリジナル作品）。
